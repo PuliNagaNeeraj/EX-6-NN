@@ -1,5 +1,5 @@
-<H3>Puli Naga Neeraj</H3>
-<H3>212223240130</H3>
+<H3>Name : Puli Naga Neeraj</H3>
+<H3>Reg No : 212223240130</H3>
 <H3>EX. NO.6</H3>
 <H3>DATE:12-05-2025</H3>
 <H1 ALIGN =CENTER>Heart attack prediction using MLP</H1>
